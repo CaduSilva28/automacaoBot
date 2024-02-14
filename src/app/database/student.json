@@ -1,0 +1,27 @@
+[
+    {
+        "nameStudent":"Francisca Ester Cardoso",
+		"nameCourse": "Administração",
+		"nuRegistration": "38392825004"
+    },
+	{
+        "nameStudent":"Luan Miguel da Cruz",
+		"nameCourse": "Ciências Contábeis",
+		"nuRegistration": "22782713000"
+    },
+	{
+        "nameStudent":"Lara Débora Jesus",
+		"nameCourse": "Análise e Desenvolvimento de Sistemas",
+		"nuRegistration": "19242018015"
+    },
+	{
+        "nameStudent":"Regina Isabelly Laura Lima",
+		"nameCourse": "Pedagogia",
+		"nuRegistration": "69422191009"
+    },
+	{
+        "nameStudent":"Cláudio Lucas Murilo Novaes",
+		"nameCourse": "Análise e Desenvolvimento de Sistemas",
+		"nuRegistration": "46753801073"
+    }
+]
